@@ -8,7 +8,7 @@
 - Most of the machine parameters are opened on the touch screen, users can easily configure, no need to modify the configuration file.
 
 ## Related tutorials and Notice
-- Related tutorials and Notice to Wiki. [click here](https://github.com/makerbase-mks/MKS-Robin-Nano-V2/wiki/_new)
+- Related tutorials and Notice to Wiki. [click here](https://github.com/makerbase-mks/MKS-Robin-Nano-V2/wiki)
 - Welcome to follow us on Facebook to learn about the company's latest developments. [click here](https://www.facebook.com/Makerbase.mks/)
 
 # Firmware

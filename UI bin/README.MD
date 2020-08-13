@@ -10,5 +10,5 @@
   - Reset or repower on motherboard
 
 - Use MKS UI
-  - Copy Robin_nano35.bin file and asset floder to TF card root directory
+  - Copy Robin_nano35.bin file and asset folder to TF card root directory
   - Reset or repower on motherboard
